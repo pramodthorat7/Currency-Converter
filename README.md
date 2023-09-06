@@ -23,7 +23,7 @@ This is a simple currency converter web application built using HTML, CSS, and J
    git clone https://github.com/pramodthorat7/Currency-Converter.git
    ```
 
-2. Open the `index.html` file in your web browser or host it on a web server.
+2. Open the `Currencyconverter.html` file in your web browser or host it on a web server.
 
 ## Usage
 
